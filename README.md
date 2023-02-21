@@ -13,7 +13,6 @@ symfony server:start
 
 entity = model
 Laravels routes # symfonys routes
-Larvel uses migrations files to define tables # symfony uses entities files
 Laravels syntaxe # Symfonys syntaxe
 OOP: we use Getters and Setters in case we declare varibales "private"
 
